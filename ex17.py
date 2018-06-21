@@ -52,6 +52,3 @@ g1 = Ducks()
 g1.wow()
 a1 = Animals()
 a1.wow()
-
-# print(geese.__dict__)
-# print(animals.__dict__)
